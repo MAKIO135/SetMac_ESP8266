@@ -10,7 +10,7 @@ Exposes 2 simple methods:
 **These methods must be called before `WiFi.begin();`.**
 
 ### Usage:
-```
+```c++
 #include <ESP8266WiFi.h>
 #include <SetMac_ESP8266.h>
 
