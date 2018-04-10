@@ -1,0 +1,11 @@
+#########################################
+# Syntax Coloring Map For SetMac_ESP8266
+#########################################
+
+# Datatypes (KEYWORD1)
+
+# Methods and Functions (KEYWORD2)
+setMac	KEYWORD2
+setRandomMac	KEYWORD2
+
+# Constants (LITERAL1)
