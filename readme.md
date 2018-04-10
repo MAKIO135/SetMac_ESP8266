@@ -1,6 +1,4 @@
 # SetMac_ESP8266
-A small Arduino library for setting MAC adress on ESP8266
-___
 
 Uses `wifi_set_macaddr` method from `user_interfaces.h`.  
 Exposes 2 simple methods:
